@@ -1,0 +1,3 @@
+Products: ['Tomatoes', 'Milk', 'Eggs', 'Cheese', 'Bread', 'Cupcakes', 'Muffins', 'Rusk']
+Total Bill: 1100
+Checkout completed at 2024-01-14 17:48:35.974730
